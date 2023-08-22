@@ -2,6 +2,46 @@
   {
     "type": "bgm",
     "id": "cup-of-cohee.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/cup-of-cohee.ogg"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/bgm/cup-of-cohee.ogg"
+  },
+  {
+    "type": "ambient",
+    "id": "bedroom-cyberpunk.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/ambient/bedroom-cyberpunk.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "cityscape-medieval-market.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/ambient/cityscape-medieval-market.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "cityscape-postapoc.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/ambient/cityscape-postapoc.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "japan-classroom.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/ambient/japan-classroom.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-autumn-great-tree.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/ambient/landscape-autumn-great-tree.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-beach-day.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/ambient/landscape-beach-day.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-beach-night.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/ambient/landscape-beach-night.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-winter-lake-house.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/audio/ambient/landscape-winter-lake-house.mp3"
   }
 ]

@@ -2,7 +2,7 @@
 
 Official content repository. Use the "Assets" extension in SillyTavern to download these files into your installation.
 
-All rights to copyrighted works are reserved by their respective owners. Please refer to the list below.
+All rights to copyrighted works are reserved by their respective owners. You should gain their permission if you'd like to redistribute these assets outside of SillyTavern's ecosystem. Please refer to the list below.
 
 # Artist credits
 

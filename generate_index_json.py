@@ -18,5 +18,5 @@ if __name__ == "__main__":
             assets_json.append(entry)
 
     with open(OUTPUT_JSON, "w") as outfile:
-        outfile.write(json.dumps(assets_json,indent=4))
+        outfile.write(json.dumps(assets_json,indent=2))
     print("Done.")

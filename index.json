@@ -1,10 +1,5 @@
 [
   {
-    "type": "bgm",
-    "id": "cup-of-cohee.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
-  },
-  {
     "type": "ambient",
     "id": "bedroom-clean.mp3",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-clean.mp3"
@@ -58,5 +53,10 @@
     "type": "ambient",
     "id": "landscape-winter-lake-house.mp3",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-winter-lake-house.mp3"
+  },
+  {
+    "type": "bgm",
+    "id": "cup-of-cohee.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
   }
 ]

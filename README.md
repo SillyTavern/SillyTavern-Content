@@ -8,12 +8,12 @@ All rights to copyrighted works are reserved by their respective owners. Please 
 
 ## BGM
 
-- Deffcolony
+- Deffcolony (https://soundcloud.com/deffcolony)
   - cup-of-cohee.ogg
 
 ## Ambient
 
-- Deffcolony
+- Deffcolony (https://soundcloud.com/deffcolony)
   - bedroom-clean.mp3
   - bedroom-cyberpunk.mp3
   - cityscape-medieval-market.mp3

@@ -2,6 +2,8 @@
 
 Official content repository. Use the "Assets" extension in SillyTavern to download these files into your installation.
 
+Alternatively, [download](https://github.com/SillyTavern/SillyTavern-Content/archive/refs/heads/main.zip) the repository as a ZIP file and unpack it into your /SillyTavern/public folder.
+
 All rights to copyrighted works are reserved by their respective owners. You should gain their permission if you'd like to redistribute these assets outside of SillyTavern's ecosystem. Please refer to the list below.
 
 # Artist credits

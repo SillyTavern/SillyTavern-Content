@@ -2,86 +2,86 @@
   {
     "type": "bgm",
     "id": "finality.ogg",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/bgm/finality.ogg"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/finality.ogg"
   },
   {
     "type": "bgm",
     "id": "solemn_melody.ogg",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/bgm/solemn_melody.ogg"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn_melody.ogg"
   },
   {
     "type": "bgm",
     "id": "sad_ambience_2.ogg",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/bgm/sad_ambience_2.ogg"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_2.ogg"
   },
   {
     "type": "bgm",
     "id": "sad_ambience _1.ogg",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/bgm/sad_ambience _1.ogg"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience _1.ogg"
   },
   {
     "type": "bgm",
     "id": "cup-of-cohee.ogg",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/bgm/cup-of-cohee.ogg"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
   },
   {
     "type": "bgm",
     "id": "energetic_1.ogg",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/bgm/energetic_1.ogg"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/energetic_1.ogg"
   },
   {
     "type": "ambient",
     "id": "japan-university.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/japan-university.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-university.mp3"
   },
   {
     "type": "ambient",
     "id": "landscape-winter-lake-house.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/landscape-winter-lake-house.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-winter-lake-house.mp3"
   },
   {
     "type": "ambient",
     "id": "landscape-autumn-great-tree.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/landscape-autumn-great-tree.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-autumn-great-tree.mp3"
   },
   {
     "type": "ambient",
     "id": "japan-path-cherry-blossom.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/japan-path-cherry-blossom.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-path-cherry-blossom.mp3"
   },
   {
     "type": "ambient",
     "id": "bedroom-cyberpunk.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/bedroom-cyberpunk.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-cyberpunk.mp3"
   },
   {
     "type": "ambient",
     "id": "landscape-beach-night.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/landscape-beach-night.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-beach-night.mp3"
   },
   {
     "type": "ambient",
     "id": "cityscape-postapoc.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/cityscape-postapoc.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-postapoc.mp3"
   },
   {
     "type": "ambient",
     "id": "japan-classroom.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/japan-classroom.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-classroom.mp3"
   },
   {
     "type": "ambient",
     "id": "bedroom-clean.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/bedroom-clean.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-clean.mp3"
   },
   {
     "type": "ambient",
     "id": "landscape-beach-day.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/landscape-beach-day.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-beach-day.mp3"
   },
   {
     "type": "ambient",
     "id": "cityscape-medieval-market.mp3",
-    "url": "https://github.com/wereretot/SillyTavern-Content/assets/ambient/cityscape-medieval-market.mp3"
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-medieval-market.mp3"
   }
 ]

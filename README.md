@@ -12,6 +12,12 @@ All rights to copyrighted works are reserved by their respective owners. You sho
 
 - Deffcolony (https://soundcloud.com/deffcolony)
   - cup-of-cohee.ogg
+- ReXommendation (https://rexommendation.bandcamp.com/)
+  - energetic_1.ogg
+  - finality.ogg
+  - sad_ambience_1.ogg
+  - sad_ambience_2.ogg
+  - solemn_melody.ogg
 
 ## Ambient
 

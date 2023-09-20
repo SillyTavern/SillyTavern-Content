@@ -1,6 +1,21 @@
 [
   {
     "type": "bgm",
+    "id": "deep-under-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/deep-under-water-temple.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "inside-the-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "sunken-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sunken-water-temple.ogg"
+  },
+  {
+    "type": "bgm",
     "id": "finality.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/finality.ogg"
   },

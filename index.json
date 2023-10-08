@@ -100,7 +100,7 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
   },
   {
-    "id": "blip",
+    "id": "Extension-Blip",
     "type": "extension",
     "name": "Blip",
     "description": "Animate the text of character messages with variable speed and play sound along the animation.",

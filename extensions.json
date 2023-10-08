@@ -1,6 +1,6 @@
 [
     {
-        "id": "blip",
+        "id": "Extension-Blip",
         "type": "extension",
         "name": "Blip",
         "description": "Animate the text of character messages with variable speed and play sound along the animation.",

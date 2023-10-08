@@ -12,6 +12,9 @@ All rights to copyrighted works are reserved by their respective owners. You sho
 
 - Deffcolony (https://soundcloud.com/deffcolony)
   - cup-of-cohee.ogg
+  - deep-under-water-temple.ogg
+  - inside-the-water-temple.ogg
+  - sunken-water-temple.ogg
 - ReXommendation (https://rexommendation.bandcamp.com/)
   - energetic_1.ogg
   - finality.ogg

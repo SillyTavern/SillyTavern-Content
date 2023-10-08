@@ -1,73 +1,8 @@
 [
   {
-    "type": "bgm",
-    "id": "deep-under-water-temple.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/deep-under-water-temple.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "inside-the-water-temple.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "sunken-water-temple.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sunken-water-temple.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "finality.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/finality.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "solemn_melody.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn_melody.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "sad_ambience_2.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_2.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "sad_ambience_1.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_1.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "cup-of-cohee.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "energetic_1.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/energetic_1.ogg"
-  },
-  {
     "type": "ambient",
-    "id": "japan-university.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-university.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "landscape-winter-lake-house.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-winter-lake-house.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "landscape-autumn-great-tree.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-autumn-great-tree.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "japan-path-cherry-blossom.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-path-cherry-blossom.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "bedroom-cyberpunk.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-cyberpunk.mp3"
+    "id": "cityscape-medieval-market.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-medieval-market.mp3"
   },
   {
     "type": "ambient",
@@ -76,8 +11,8 @@
   },
   {
     "type": "ambient",
-    "id": "cityscape-postapoc.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-postapoc.mp3"
+    "id": "landscape-autumn-great-tree.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-autumn-great-tree.mp3"
   },
   {
     "type": "ambient",
@@ -86,8 +21,23 @@
   },
   {
     "type": "ambient",
+    "id": "japan-university.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-university.mp3"
+  },
+  {
+    "type": "ambient",
     "id": "bedroom-clean.mp3",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-clean.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "japan-path-cherry-blossom.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-path-cherry-blossom.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "cityscape-postapoc.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-postapoc.mp3"
   },
   {
     "type": "ambient",
@@ -96,7 +46,67 @@
   },
   {
     "type": "ambient",
-    "id": "cityscape-medieval-market.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-medieval-market.mp3"
+    "id": "bedroom-cyberpunk.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-cyberpunk.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-winter-lake-house.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-winter-lake-house.mp3"
+  },
+  {
+    "type": "bgm",
+    "id": "sunken-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sunken-water-temple.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "deep-under-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/deep-under-water-temple.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "energetic_1.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/energetic_1.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "cup-of-cohee.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "finality.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/finality.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "sad_ambience_1.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_1.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "sad_ambience_2.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_2.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "solemn_melody.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn_melody.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "inside-the-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
+  },
+  {
+    "extensions": [
+      {
+        "id": "blip",
+        "name": "Blip",
+        "description": "Animate the text of character messages with variable speed and play sound along the animation.",
+        "repository": "https://github.com/SillyTavern/Extension-Blip"
+      }
+    ]
   }
 ]

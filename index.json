@@ -104,6 +104,6 @@
     "type": "extension",
     "name": "Blip",
     "description": "Animate the text of character messages with variable speed and play sound along the animation.",
-    "repository": "https://github.com/SillyTavern/Extension-Blip"
+    "url": "https://github.com/SillyTavern/Extension-Blip"
   }
 ]

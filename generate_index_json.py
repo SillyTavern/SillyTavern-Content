@@ -36,8 +36,10 @@ if __name__ == "__main__":
 
     with open(EXTENSIONS_FILE, "r") as extfile:
         extensions = json.load(extfile)
-        print("Adding extensions:", extensions)
-        assets_json.append({"extensions": extensions})
+        
+        for extension in extensions:
+            print("Adding extension:", extension)
+            assets_json.append(extension)
 
     with open(OUTPUT_JSON, "w") as outfile:
         outfile.write(json.dumps(assets_json, indent=2))

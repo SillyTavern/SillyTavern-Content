@@ -100,6 +100,21 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
   },
   {
+    "type": "blip",
+    "id": "st_blip_0.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_0.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_1.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_1.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_2.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_2.ogg"
+  },
+  {
     "id": "Extension-Blip",
     "type": "extension",
     "name": "Blip",

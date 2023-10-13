@@ -120,5 +120,12 @@
     "name": "Blip",
     "description": "Animate the text of character messages with variable speed and play sound along the animation.",
     "url": "https://github.com/SillyTavern/Extension-Blip"
+  },
+  {
+    "id": "Extension-Speech-Recognition",
+    "type": "extension",
+    "name": "Speech Recognition",
+    "description": "Convert your speech to text using browser or extras.",
+    "url": "https://github.com/SillyTavern/Extension-Speech-Recognition"
   }
 ]

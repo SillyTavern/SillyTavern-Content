@@ -28,27 +28,6 @@
         "url": "https://github.com/SillyTavern/SillyTavern-Timelines"
     },
     {
-        "id": "Extension-Variables",
-        "type": "extension",
-        "name": "Chat Variables",
-        "description": "(For developers). Simple plugin showcasing the capabilities of handlebars and chat metadata in extensions.",
-        "url": "https://github.com/SillyTavern/Extension-Variables"
-    },
-    {
-        "id": "Extension-Randomizer",
-        "type": "extension",
-        "name": "Parameter Randomizer",
-        "description": "Adds ability to randomize API settings sliders with every generation.",
-        "url": "https://github.com/SillyTavern/Extension-Randomizer"
-    },
-    {
-        "id": "Extension-ChromaDB",
-        "type": "extension",
-        "name": "Smart Context",
-        "description": "Adds an alternative vector storage using ChromaDB. Requires an Extras API chromadb module.",
-        "url": "https://github.com/SillyTavern/Extension-ChromaDB"
-    },
-    {
         "id": "Extension-RVC",
         "type": "extension",
         "name": "RVC",
@@ -75,5 +54,26 @@
         "name": "HypeBot",
         "description": "Show personalized suggestions based on your recent chats using the NovelAI's HypeBot engine. Requires an active NovelAI subscription.",
         "url": "https://github.com/SillyTavern/Extension-HypeBot"
+    },
+    {
+        "id": "Extension-Randomizer",
+        "type": "extension",
+        "name": "Parameter Randomizer",
+        "description": "Adds ability to randomize API settings sliders with every generation.",
+        "url": "https://github.com/SillyTavern/Extension-Randomizer"
+    },
+    {
+        "id": "Extension-ChromaDB",
+        "type": "extension",
+        "name": "Smart Context",
+        "description": "Adds an alternative vector storage using ChromaDB. Requires an Extras API chromadb module.",
+        "url": "https://github.com/SillyTavern/Extension-ChromaDB"
+    },
+    {
+        "id": "Extension-Variables",
+        "type": "extension",
+        "name": "Chat Variables",
+        "description": "(For developers). Simple plugin showcasing the capabilities of handlebars and chat metadata in extensions.",
+        "url": "https://github.com/SillyTavern/Extension-Variables"
     }
 ]

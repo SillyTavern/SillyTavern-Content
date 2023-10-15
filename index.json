@@ -169,5 +169,12 @@
       "name": "Objective",
       "description": "Set an Objective for the AI to aim for during the chat.",
       "url": "https://github.com/SillyTavern/Extension-Objective"
+  },
+  {
+      "id": "Extension-Dice",
+      "type": "extension",
+      "name": "D&D Dice",
+      "description": "A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.",
+      "url": "https://github.com/SillyTavern/Extension-Dice"
   }
 ]

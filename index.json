@@ -176,5 +176,12 @@
       "name": "D&D Dice",
       "description": "A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.",
       "url": "https://github.com/SillyTavern/Extension-Dice"
+  },
+  {
+      "id": "Extension-HypeBot",
+      "type": "extension",
+      "name": "HypeBot",
+      "description": "Show personalized suggestions based on your recent chats using the NovelAI's HypeBot engine. Requires an active NovelAI subscription.",
+      "url": "https://github.com/SillyTavern/Extension-HypeBot"
   }
 ]

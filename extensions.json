@@ -1,5 +1,12 @@
 [
     {
+        "id": "Extension-Audio",
+        "type": "extension",
+        "name": "Dynamic Audio",
+        "description": "Adds immersive background music and ambient sounds to your chats.",
+        "url": "https://github.com/SillyTavern/Extension-Audio"
+    },
+    {
         "id": "Extension-Blip",
         "type": "extension",
         "name": "Blip",

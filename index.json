@@ -134,5 +134,12 @@
     "name": "Timelines",
     "description": "Adds a timeline navigation to the chat history.",
     "url": "https://github.com/SillyTavern/SillyTavern-Timelines"
+  },
+  {
+    "id": "Extension-Variables",
+    "type": "extension",
+    "name": "Chat Variables",
+    "description": "(For developers). Simple plugin showcasing the capabilities of handlebars and chat metadata in extensions.",
+    "url": "https://github.com/SillyTavern/Extension-Variables"
   }
 ]

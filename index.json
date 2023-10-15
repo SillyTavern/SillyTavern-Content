@@ -129,6 +129,13 @@
     "url": "https://github.com/SillyTavern/Extension-Blip"
   },
   {
+    "id": "Extension-Idle",
+    "type": "extension",
+    "name": "Idle",
+    "description": "Adds \"idle prompting\" after the user has been idle for some time to organically continue the conversation.",
+    "url": "https://github.com/SillyTavern/Extension-Idle"
+  },
+  {
     "id": "Extension-Speech-Recognition",
     "type": "extension",
     "name": "Speech Recognition",

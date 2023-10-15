@@ -47,5 +47,12 @@
         "name": "RVC",
         "description": "Adds Realtime Voice Cloning capabilities to the Text-to-Speech module. Requires an Extras API rvc module.",
         "url": "https://github.com/SillyTavern/Extension-RVC"
+    },
+    {
+        "id": "Extension-Objective",
+        "type": "extension",
+        "name": "Objective",
+        "description": "Set an Objective for the AI to aim for during the chat.",
+        "url": "https://github.com/SillyTavern/Extension-Objective"
     }
 ]

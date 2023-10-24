@@ -197,5 +197,12 @@
       "name": "HypeBot",
       "description": "Show personalized suggestions based on your recent chats using the NovelAI's HypeBot engine. Requires an active NovelAI subscription.",
       "url": "https://github.com/SillyTavern/Extension-HypeBot"
+  },
+  {
+      "id": "Extension-Live2d",
+      "type": "extension",
+      "name": "Live2d",
+      "description": "Adds support for live2d models. Customizable expressions, animations and interactions.",
+      "url": "https://github.com/SillyTavern/Extension-Live2d"
   }
 ]

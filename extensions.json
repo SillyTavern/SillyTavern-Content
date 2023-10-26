@@ -42,6 +42,13 @@
         "url": "https://github.com/SillyTavern/Extension-RVC"
     },
     {
+        "id": "Extension-Live2d",
+        "type": "extension",
+        "name": "Live2d",
+        "description": "Adds support for live2d models. Customizable expressions, animations and interactions.",
+        "url": "https://github.com/SillyTavern/Extension-Live2d"
+    },
+    {
         "id": "Extension-Objective",
         "type": "extension",
         "name": "Objective",
@@ -84,10 +91,10 @@
         "url": "https://github.com/SillyTavern/Extension-Variables"
     },
     {
-        "id": "Extension-Live2d",
-        "type": "extension",
-        "name": "Live2d",
-        "description": "Adds support for live2d models. Customizable expressions, animations and interactions.",
-        "url": "https://github.com/SillyTavern/Extension-Live2d"
+      "id": "SillyTavern-EmulatorJS",
+      "type": "extension",
+      "name": "EmulatorJS",
+      "description": "Play retro console games directly in SillyTavern chats.",
+      "url": "https://github.com/Cohee1207/SillyTavern-EmulatorJS"
     }
 ]

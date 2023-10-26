@@ -55,6 +55,21 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-winter-lake-house.mp3"
   },
   {
+    "type": "blip",
+    "id": "st_blip_2.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_2.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_0.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_0.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_1.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_1.ogg"
+  },
+  {
     "type": "bgm",
     "id": "sunken-water-temple.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sunken-water-temple.ogg"
@@ -100,21 +115,6 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
   },
   {
-    "type": "blip",
-    "id": "st_blip_0.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_0.ogg"
-  },
-  {
-    "type": "blip",
-    "id": "st_blip_1.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_1.ogg"
-  },
-  {
-    "type": "blip",
-    "id": "st_blip_2.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_2.ogg"
-  },
-  {
     "id": "Extension-Audio",
     "type": "extension",
     "name": "Dynamic Audio",
@@ -150,6 +150,55 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Timelines"
   },
   {
+    "id": "Extension-RVC",
+    "type": "extension",
+    "name": "RVC",
+    "description": "Adds Realtime Voice Cloning capabilities to the Text-to-Speech module. Requires an Extras API rvc module.",
+    "url": "https://github.com/SillyTavern/Extension-RVC"
+  },
+  {
+    "id": "Extension-Live2d",
+    "type": "extension",
+    "name": "Live2d",
+    "description": "Adds support for live2d models. Customizable expressions, animations and interactions.",
+    "url": "https://github.com/SillyTavern/Extension-Live2d"
+  },
+  {
+    "id": "Extension-Objective",
+    "type": "extension",
+    "name": "Objective",
+    "description": "Set an Objective for the AI to aim for during the chat.",
+    "url": "https://github.com/SillyTavern/Extension-Objective"
+  },
+  {
+    "id": "Extension-Dice",
+    "type": "extension",
+    "name": "D&D Dice",
+    "description": "A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.",
+    "url": "https://github.com/SillyTavern/Extension-Dice"
+  },
+  {
+    "id": "Extension-HypeBot",
+    "type": "extension",
+    "name": "HypeBot",
+    "description": "Show personalized suggestions based on your recent chats using the NovelAI's HypeBot engine. Requires an active NovelAI subscription.",
+    "url": "https://github.com/SillyTavern/Extension-HypeBot"
+  },
+  {
+    "id": "Extension-Randomizer",
+    "type": "extension",
+    "name": "Parameter Randomizer",
+    "description": "Adds ability to randomize API settings sliders with every generation.",
+    "url": "https://github.com/SillyTavern/Extension-Randomizer"
+  },
+  {
+    "id": "Extension-ChromaDB",
+    "type": "extension",
+    "name": "Smart Context",
+    "description": "Adds an alternative vector storage using ChromaDB. Requires an Extras API chromadb module.",
+    "url": "https://github.com/SillyTavern/Extension-ChromaDB"
+  },
+  {
     "id": "Extension-Variables",
     "type": "extension",
     "name": "Chat Variables",
@@ -157,52 +206,10 @@
     "url": "https://github.com/SillyTavern/Extension-Variables"
   },
   {
-      "id": "Extension-Randomizer",
-      "type": "extension",
-      "name": "Parameter Randomizer",
-      "description": "Adds ability to randomize API settings sliders with every generation.",
-      "url": "https://github.com/SillyTavern/Extension-Randomizer"
-  },
-  {
-      "id": "Extension-ChromaDB",
-      "type": "extension",
-      "name": "Smart Context",
-      "description": "Adds an alternative vector storage using ChromaDB. Requires an Extras API chromadb module.",
-      "url": "https://github.com/SillyTavern/Extension-ChromaDB"
-  },
-  {
-      "id": "Extension-RVC",
-      "type": "extension",
-      "name": "RVC",
-      "description": "Adds Realtime Voice Cloning capabilities to the Text-to-Speech module. Requires an Extras API rvc module.",
-      "url": "https://github.com/SillyTavern/Extension-RVC"
-  },
-  {
-      "id": "Extension-Objective",
-      "type": "extension",
-      "name": "Objective",
-      "description": "Set an Objective for the AI to aim for during the chat.",
-      "url": "https://github.com/SillyTavern/Extension-Objective"
-  },
-  {
-      "id": "Extension-Dice",
-      "type": "extension",
-      "name": "D&D Dice",
-      "description": "A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.",
-      "url": "https://github.com/SillyTavern/Extension-Dice"
-  },
-  {
-      "id": "Extension-HypeBot",
-      "type": "extension",
-      "name": "HypeBot",
-      "description": "Show personalized suggestions based on your recent chats using the NovelAI's HypeBot engine. Requires an active NovelAI subscription.",
-      "url": "https://github.com/SillyTavern/Extension-HypeBot"
-  },
-  {
-      "id": "Extension-Live2d",
-      "type": "extension",
-      "name": "Live2d",
-      "description": "Adds support for live2d models. Customizable expressions, animations and interactions.",
-      "url": "https://github.com/SillyTavern/Extension-Live2d"
+    "id": "SillyTavern-EmulatorJS",
+    "type": "extension",
+    "name": "EmulatorJS",
+    "description": "Play retro console games directly in SillyTavern chats.",
+    "url": "https://github.com/Cohee1207/SillyTavern-EmulatorJS"
   }
 ]

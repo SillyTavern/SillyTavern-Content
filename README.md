@@ -23,6 +23,8 @@ All rights to copyrighted works are reserved by their respective owners. You sho
   - sad_ambience_1.ogg
   - sad_ambience_2.ogg
   - solemn_melody.ogg
+  - calm-bittersweet.ogg
+  - melancholy-bittersweet.ogg
 
 ## Ambient
 

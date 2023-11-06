@@ -26,6 +26,11 @@
   },
   {
     "type": "bgm",
+    "id": "Ambient ST #2 - Calm-Bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Ambient ST #2 - Calm-Bittersweet.ogg"
+  },
+  {
+    "type": "bgm",
     "id": "solemn_melody.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn_melody.ogg"
   },
@@ -36,18 +41,13 @@
   },
   {
     "type": "bgm",
-    "id": "Ambient ST #1.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Ambient ST #1.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "Ambient ST #2.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Ambient ST #2.ogg"
-  },
-  {
-    "type": "bgm",
     "id": "sad_ambience_2.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_2.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "Ambient ST Bitter Sweet - Solemn #5.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Ambient ST Bitter Sweet - Solemn #5.ogg"
   },
   {
     "type": "bgm",
@@ -58,6 +58,11 @@
     "type": "bgm",
     "id": "energetic_1.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/energetic_1.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "Ambient ST #1 - Melancholy-Bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Ambient ST #1 - Melancholy-Bittersweet.ogg"
   },
   {
     "type": "bgm",

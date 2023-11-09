@@ -101,6 +101,11 @@
   },
   {
     "type": "bgm",
+    "id": "solemn-bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn-bittersweet.ogg"
+  },
+  {
+    "type": "bgm",
     "id": "sad_ambience_1.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_1.ogg"
   },

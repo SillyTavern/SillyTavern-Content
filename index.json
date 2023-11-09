@@ -25,14 +25,9 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-university.mp3"
   },
   {
-    "type": "bgm",
-    "id": "Ambient ST #2 - Calm-Bittersweet.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Ambient ST #2 - Calm-Bittersweet.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "solemn_melody.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn_melody.ogg"
+    "type": "ambient",
+    "id": "bedroom-clean.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-clean.mp3"
   },
   {
     "type": "ambient",
@@ -40,14 +35,9 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-path-cherry-blossom.mp3"
   },
   {
-    "type": "bgm",
-    "id": "sad_ambience_2.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_2.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "Ambient ST Bitter Sweet - Solemn #5.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Ambient ST Bitter Sweet - Solemn #5.ogg"
+    "type": "ambient",
+    "id": "cityscape-postapoc.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-postapoc.mp3"
   },
   {
     "type": "ambient",
@@ -70,14 +60,9 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_2.ogg"
   },
   {
-    "type": "bgm",
-    "id": "Ambient ST #1 - Melancholy-Bittersweet.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/Ambient ST #1 - Melancholy-Bittersweet.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "deep-under-water-temple.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/deep-under-water-temple.ogg"
+    "type": "blip",
+    "id": "st_blip_0.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_0.ogg"
   },
   {
     "type": "blip",
@@ -113,6 +98,11 @@
     "type": "bgm",
     "id": "finality.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/finality.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "solemn-bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn-bittersweet.ogg"
   },
   {
     "type": "bgm",

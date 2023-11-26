@@ -84,11 +84,11 @@
         "url": "https://github.com/SillyTavern/Extension-ChromaDB"
     },
     {
-        "id": "Extension-Variables",
+        "id": "Extension-WebSearch",
         "type": "extension",
-        "name": "Chat Variables",
-        "description": "(For developers). Simple plugin showcasing the capabilities of handlebars and chat metadata in extensions.",
-        "url": "https://github.com/SillyTavern/Extension-Variables"
+        "name": "Web Search",
+        "description": "Add web search results to LLM prompts (requires SerpApi key).",
+        "url": "https://github.com/SillyTavern/Extension-WebSearch"
     },
     {
       "id": "SillyTavern-EmulatorJS",

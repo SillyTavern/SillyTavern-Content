@@ -222,7 +222,7 @@
     "id": "Extension-WebSearch",
     "type": "extension",
     "name": "Web Search",
-    "description": "Add web search results to LLM prompts (requires SerpApi key).",
+    "description": "Adds web search results to LLM prompts.",
     "url": "https://github.com/SillyTavern/Extension-WebSearch"
   },
   {

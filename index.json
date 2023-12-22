@@ -231,5 +231,12 @@
     "name": "EmulatorJS",
     "description": "Play retro console games directly in SillyTavern chats.",
     "url": "https://github.com/Cohee1207/SillyTavern-EmulatorJS"
+  },
+  {
+    "id": "SillyTavern-Variable-Viewer",
+    "type": "extension",
+    "name": "Variable Viewer",
+    "description": "Easy way to view and modify variables.",
+    "url": "https://github.com/LenAnderson/SillyTavern-Variable-Viewer"
   }
 ]

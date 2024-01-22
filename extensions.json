@@ -103,5 +103,12 @@
       "name": "Variable Viewer",
       "description": "Easy way to view and modify variables.",
       "url": "https://github.com/LenAnderson/SillyTavern-Variable-Viewer"
+    },
+    {
+      "id": "Extension-VRM",
+      "type": "extension",
+      "name": "VRM",
+      "description": "Adds support for VRM models. Customizable expressions, animations and interactions.",
+      "url": "https://github.com/SillyTavern/Extension-VRM"
     }
 ]

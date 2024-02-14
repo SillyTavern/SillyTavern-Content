@@ -245,5 +245,12 @@
     "name": "VRM",
     "description": "Adds support for VRM models. Customizable expressions, animations and interactions.",
     "url": "https://github.com/SillyTavern/Extension-VRM"
+  },
+  {
+    "id": "Extension-QuickPersona",
+    "type": "extension",
+    "name": "Quick Persona",
+    "description": "Adds a dropdown menu for selecting user personas from the chat bar.",
+    "url": "https://github.com/SillyTavern/Extension-QuickPersona"
   }
 ]

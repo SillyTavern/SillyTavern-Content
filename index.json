@@ -257,5 +257,12 @@
     "name": "Quick Persona",
     "description": "Adds a dropdown menu for selecting user personas from the chat bar.",
     "url": "https://github.com/SillyTavern/Extension-QuickPersona"
+  },
+  {
+    "id": "Extension-Silence",
+    "type": "extension",
+    "name": "Silence Player",
+    "description": "Adds a silence audio player to the extensions menu. Can help if the browser tab is being killed in a background.",
+    "url": "https://github.com/Cohee1207/Extension-Silence"
   }
 ]

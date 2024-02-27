@@ -26,6 +26,8 @@ All rights to copyrighted works are reserved by their respective owners. You sho
   - calm-bittersweet.ogg
   - melancholy-bittersweet.ogg
   - solemn-bittersweet.ogg
+  - chords-bittersweet.ogg
+  - ambient_st_village_12.ogg
 
 ## Ambient
 

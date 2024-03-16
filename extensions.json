@@ -1,5 +1,12 @@
 [
     {
+        "id": "Extension-GroupGreetings",
+        "type": "extension",
+        "name": "Group Greetings",
+        "description": "Allows setting alternate greetings that are specific to group chats.",
+        "url": "https://github.com/SillyTavern/Extension-GroupGreetings"
+    },
+    {
         "id": "Extension-Audio",
         "type": "extension",
         "name": "Dynamic Audio",

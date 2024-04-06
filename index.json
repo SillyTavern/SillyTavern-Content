@@ -147,6 +147,13 @@
     "url": "https://github.com/SillyTavern/Extension-GroupGreetings"
   },
   {
+    "id": "Extension-DupeFinder",
+    "type": "extension",
+    "name": "Duplicate Finder",
+    "description": "Adds an ability to cluster characters by similarity groups to easily find duplicates.",
+    "url": "https://github.com/SillyTavern/Extension-DupeFinder"
+  },
+  {
     "id": "Extension-Audio",
     "type": "extension",
     "name": "Dynamic Audio",

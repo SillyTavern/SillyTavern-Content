@@ -50,6 +50,8 @@ if __name__ == "__main__":
     assets_json = []
     for path, subdirs, files in os.walk(ASSETS_FOLDER):
         for name in files:
+            if name.startswith("."):
+                continue
             type = path[len(ASSETS_FOLDER) :]
             id = name
             url = repository_url + ASSETS_FOLDER + type + "/" + name

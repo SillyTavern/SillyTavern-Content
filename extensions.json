@@ -14,6 +14,13 @@
         "url": "https://github.com/SillyTavern/Extension-DupeFinder"
     },
     {
+        "id": "SillyTavern-GroupSendAs",
+        "type": "extension",
+        "name": "Group SendAs",
+        "description": "Adds a button to quickly insert a /sendas command template for the selected group member.",
+        "url": "https://github.com/SillyTavern/SillyTavern-GroupSendAs"
+    },
+    {
         "id": "Extension-Audio",
         "type": "extension",
         "name": "Dynamic Audio",
@@ -109,7 +116,7 @@
         "type": "extension",
         "name": "EmulatorJS",
         "description": "Play retro console games directly in SillyTavern chats.",
-        "url": "https://github.com/Cohee1207/SillyTavern-EmulatorJS"
+        "url": "https://github.com/SillyTavern/SillyTavern-EmulatorJS"
     },
     {
         "id": "SillyTavern-Variable-Viewer",
@@ -137,6 +144,20 @@
         "type": "extension",
         "name": "Silence Player",
         "description": "Adds a silence audio player to the extensions menu. Can help if the browser tab is being killed in a background.",
-        "url": "https://github.com/Cohee1207/Extension-Silence"
+        "url": "https://github.com/SillyTavern/Extension-Silence"
+    },
+    {
+        "id": "Extension-CodeRunner",
+        "type": "extension",
+        "name": "Code Runner",
+        "description": "Allows running JavaScript code from code blocks in chat.",
+        "url": "https://github.com/SillyTavern/Extension-CodeRunner"
+    },
+    {
+        "id": "SillyTavern-PushNotifications",
+        "type": "extension",
+        "name": "Push Notifications",
+        "description": "Allows to receive push notifications for incoming chat messages.",
+        "url": "https://github.com/SillyTavern/SillyTavern-PushNotifications"
     }
 ]

@@ -1,5 +1,7 @@
 import os
 import json
+import png
+import base64
 
 from argparse import ArgumentParser
 
@@ -23,6 +25,27 @@ if not args.url:
 else:
     print("Using given --url argument", repository_url)
 
+def read_character(path: str, name: str, entry: dict) -> bool:
+    reader = png.Reader(os.path.join(path, name))
+    chunks = reader.chunks()
+    png_data = None
+    for chunk in chunks:
+        if chunk[0] == b'tEXt':
+            png_data = chunk[1][6:] # skip "chara" and 0x00
+            break
+    if not png_data:
+        print("No tEXt chunk found in", entry)
+        return False
+    try:
+        text = base64.b64decode(png_data)
+        data = json.loads(text)
+        entry['name'] = data['data']['name']
+        entry['description'] = data['data']['creator_notes']
+        return True
+    except:
+        print("Error parsing tEXt chunk in", entry)
+        return False
+
 if __name__ == "__main__":
     assets_json = []
     for path, subdirs, files in os.walk(ASSETS_FOLDER):
@@ -31,6 +54,11 @@ if __name__ == "__main__":
             id = name
             url = repository_url + ASSETS_FOLDER + type + "/" + name
             entry = {"type": type, "id": id, "url": url}
+            if type == "character":
+                read_result = read_character(path, name, entry)
+                if not read_result:
+                    print("Skipping invalid entry:", entry)
+                    continue
             print("Creating entry:", entry)
             assets_json.append(entry)
 

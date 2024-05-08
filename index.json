@@ -1,5 +1,19 @@
 [
   {
+    "type": "character",
+    "id": "content_Assistant_CapoGPT.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/content_Assistant_CapoGPT.png",
+    "name": "CapoGPT",
+    "description": "ST Personal Assistant contest finalist"
+  },
+  {
+    "type": "character",
+    "id": "contest_Assistant_Amy.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Amy.png",
+    "name": "Amy",
+    "description": "Your classy, sassy, savvy, and, yes, a little smart-assy and a bit badassy AI assistant"
+  },
+  {
     "type": "ambient",
     "id": "cityscape-medieval-market.mp3",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-medieval-market.mp3"

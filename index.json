@@ -1,6 +1,13 @@
 [
   {
     "type": "character",
+    "id": "contest_Assistant_Gloria.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Gloria.png",
+    "name": "Gloria, PA",
+    "description": "ST Personal Assistant contest finalist\nTested with Toppy M 7B, Mythomax, Tiefighter, and ChatGPT"
+  },
+  {
+    "type": "character",
     "id": "content_Assistant_CapoGPT.png",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/content_Assistant_CapoGPT.png",
     "name": "CapoGPT",

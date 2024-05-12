@@ -28,6 +28,13 @@
     "description": "Coding assistance. Can be used for any code language, not just JavaScript. "
   },
   {
+    "type": "character",
+    "id": "default_FluxTheCat.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/default_FluxTheCat.png",
+    "name": "Flux the Cat",
+    "description": "ST Default Bot contest winner: creative prompts category"
+  },
+  {
     "type": "ambient",
     "id": "cityscape-medieval-market.mp3",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-medieval-market.mp3"

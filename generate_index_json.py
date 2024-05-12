@@ -10,6 +10,16 @@ DEFAULT_URL = "https://github.com/SillyTavern/SillyTavern-Content/raw/main/"
 ASSETS_FOLDER = "assets/"
 EXTENSIONS_FILE = "extensions.json"
 OUTPUT_JSON = "index.json"
+HIGHLIGHT_JSON = "highlight.json"
+
+highlighted = []
+
+with open(HIGHLIGHT_JSON, "r") as highlightfile:
+    try:
+        highlighted = json.load(highlightfile)
+    except:
+        print("Error parsing highlight.json")
+        highlighted = []
 
 parser = ArgumentParser()
 parser.add_argument("--url", help="URL to prepend assets path with.")
@@ -41,6 +51,7 @@ def read_character(path: str, name: str, entry: dict) -> bool:
         data = json.loads(text)
         entry['name'] = data['data']['name']
         entry['description'] = data['data']['creator_notes']
+        entry['highlight'] = entry['id'] in highlighted
         return True
     except:
         print("Error parsing tEXt chunk in", entry)

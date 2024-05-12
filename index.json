@@ -21,6 +21,13 @@
     "description": "Your classy, sassy, savvy, and, yes, a little smart-assy and a bit badassy AI assistant"
   },
   {
+    "type": "character",
+    "id": "default_CodingSensei.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/default_CodingSensei.png",
+    "name": "Coding Sensei",
+    "description": "Coding assistance. Can be used for any code language, not just JavaScript. "
+  },
+  {
     "type": "ambient",
     "id": "cityscape-medieval-market.mp3",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-medieval-market.mp3"

@@ -159,5 +159,33 @@
         "name": "Push Notifications",
         "description": "Allows to receive push notifications for incoming chat messages.",
         "url": "https://github.com/SillyTavern/SillyTavern-PushNotifications"
+    },
+    {
+        "id": "Extension-TopInfoBar",
+        "type": "extension",
+        "name": "Chat Top Bar",
+        "description": "Adds a top bar to the chat window with shortcuts to quick actions.",
+        "url": "https://github.com/SillyTavern/Extension-TopInfoBar"
+    },
+    {
+        "id": "Extension-EmojiPicker",
+        "type": "extension",
+        "name": "Emoji Picker",
+        "description": "Adds a button to quickly insert emojis into a chat message.",
+        "url": "https://github.com/SillyTavern/Extension-EmojiPicker"
+    },
+    {
+        "id": "Extension-Notebook",
+        "type": "extension",
+        "name": "Notebook",
+        "description": "Adds a place to store your notes. Supports rich text formatting.",
+        "url": "https://github.com/SillyTavern/Extension-Notebook"
+    },
+    {
+        "id": "SillyTavern-Chess",
+        "type": "extension",
+        "name": "Chess",
+        "description": "Play the game of chess with the LLM.",
+        "url": "https://github.com/SillyTavern/SillyTavern-Chess"
     }
 ]

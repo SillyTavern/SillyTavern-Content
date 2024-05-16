@@ -1,143 +1,19 @@
 [
   {
-    "type": "ambient",
-    "id": "bedroom-clean.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-clean.mp3"
+    "type": "character",
+    "id": "contest_Assistant_Sakana.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Sakana.png",
+    "name": "Sakana",
+    "description": "(ST AI Assistant Winner) A cheeky, light-hearted assistant that you hired to help you with your daily office work. ",
+    "highlight": true
   },
   {
-    "type": "ambient",
-    "id": "bedroom-cyberpunk.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-cyberpunk.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "cityscape-medieval-market.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-medieval-market.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "cityscape-postapoc.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-postapoc.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "japan-classroom.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-classroom.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "japan-path-cherry-blossom.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-path-cherry-blossom.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "japan-university.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-university.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "landscape-autumn-great-tree.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-autumn-great-tree.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "landscape-beach-day.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-beach-day.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "landscape-beach-night.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-beach-night.mp3"
-  },
-  {
-    "type": "ambient",
-    "id": "landscape-winter-lake-house.mp3",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-winter-lake-house.mp3"
-  },
-  {
-    "type": "bgm",
-    "id": "ambient_st_village_12.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/ambient_st_village_12.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "calm-bittersweet.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/calm-bittersweet.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "chords-bittersweet.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/chords-bittersweet.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "cup-of-cohee.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "deep-under-water-temple.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/deep-under-water-temple.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "energetic_1.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/energetic_1.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "finality.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/finality.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "inside-the-water-temple.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "melancholy-bittersweet.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/melancholy-bittersweet.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "sad_ambience_1.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_1.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "sad_ambience_2.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_2.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "solemn-bittersweet.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn-bittersweet.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "solemn_melody.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn_melody.ogg"
-  },
-  {
-    "type": "bgm",
-    "id": "sunken-water-temple.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sunken-water-temple.ogg"
-  },
-  {
-    "type": "blip",
-    "id": "st_blip_0.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_0.ogg"
-  },
-  {
-    "type": "blip",
-    "id": "st_blip_1.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_1.ogg"
-  },
-  {
-    "type": "blip",
-    "id": "st_blip_2.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_2.ogg"
+    "type": "character",
+    "id": "contest_Assistant_Gloria.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Gloria.png",
+    "name": "Gloria, PA",
+    "description": "ST Personal Assistant contest finalist\nTested with Toppy M 7B, Mythomax, Tiefighter, and ChatGPT",
+    "highlight": false
   },
   {
     "type": "character",
@@ -157,22 +33,6 @@
   },
   {
     "type": "character",
-    "id": "contest_Assistant_Gloria.png",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Gloria.png",
-    "name": "Gloria, PA",
-    "description": "ST Personal Assistant contest finalist\nTested with Toppy M 7B, Mythomax, Tiefighter, and ChatGPT",
-    "highlight": false
-  },
-  {
-    "type": "character",
-    "id": "contest_Assistant_Sakana.png",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Sakana.png",
-    "name": "Sakana",
-    "description": "(ST AI Assistant Winner) A cheeky, light-hearted assistant that you hired to help you with your daily office work. ",
-    "highlight": true
-  },
-  {
-    "type": "character",
     "id": "default_CodingSensei.png",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/default_CodingSensei.png",
     "name": "Coding Sensei",
@@ -186,6 +46,146 @@
     "name": "Flux the Cat",
     "description": "ST Default Bot contest winner: creative prompts category",
     "highlight": false
+  },
+  {
+    "type": "ambient",
+    "id": "cityscape-medieval-market.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-medieval-market.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-beach-night.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-beach-night.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-autumn-great-tree.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-autumn-great-tree.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "japan-classroom.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-classroom.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "japan-university.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-university.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "bedroom-clean.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-clean.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "japan-path-cherry-blossom.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/japan-path-cherry-blossom.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "cityscape-postapoc.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/cityscape-postapoc.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-beach-day.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-beach-day.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "bedroom-cyberpunk.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-cyberpunk.mp3"
+  },
+  {
+    "type": "ambient",
+    "id": "landscape-winter-lake-house.mp3",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-winter-lake-house.mp3"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_2.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_2.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_0.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_0.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_1.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_1.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "sunken-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sunken-water-temple.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "deep-under-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/deep-under-water-temple.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "energetic_1.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/energetic_1.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "calm-bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/calm-bittersweet.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "cup-of-cohee.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/cup-of-cohee.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "ambient_st_village_12.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/ambient_st_village_12.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "finality.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/finality.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "solemn-bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn-bittersweet.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "chords-bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/chords-bittersweet.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "sad_ambience_1.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_1.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "sad_ambience_2.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sad_ambience_2.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "melancholy-bittersweet.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/melancholy-bittersweet.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "solemn_melody.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/solemn_melody.ogg"
+  },
+  {
+    "type": "bgm",
+    "id": "inside-the-water-temple.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
   },
   {
     "id": "Extension-GroupGreetings",
@@ -347,5 +347,33 @@
     "name": "Push Notifications",
     "description": "Allows to receive push notifications for incoming chat messages.",
     "url": "https://github.com/SillyTavern/SillyTavern-PushNotifications"
+  },
+  {
+    "id": "Extension-TopInfoBar",
+    "type": "extension",
+    "name": "Chat Top Bar",
+    "description": "Adds a top bar to the chat window with shortcuts to quick actions.",
+    "url": "https://github.com/SillyTavern/Extension-TopInfoBar"
+  },
+  {
+    "id": "Extension-EmojiPicker",
+    "type": "extension",
+    "name": "Emoji Picker",
+    "description": "Adds a button to quickly insert emojis into a chat message.",
+    "url": "https://github.com/SillyTavern/Extension-EmojiPicker"
+  },
+  {
+    "id": "Extension-Notebook",
+    "type": "extension",
+    "name": "Notebook",
+    "description": "Adds a place to store your notes. Supports rich text formatting.",
+    "url": "https://github.com/SillyTavern/Extension-Notebook"
+  },
+  {
+    "id": "SillyTavern-Chess",
+    "type": "extension",
+    "name": "Chess",
+    "description": "Play the game of chess with the LLM.",
+    "url": "https://github.com/SillyTavern/SillyTavern-Chess"
   }
 ]

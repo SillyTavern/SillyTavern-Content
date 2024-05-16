@@ -150,7 +150,7 @@
         "id": "Extension-CodeRunner",
         "type": "extension",
         "name": "Code Runner",
-        "description": "Allows running JavaScript code from code blocks in chat.",
+        "description": "Allows running JavaScript and STscript code from code blocks in chat.",
         "url": "https://github.com/SillyTavern/Extension-CodeRunner"
     },
     {

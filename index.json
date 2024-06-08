@@ -375,5 +375,19 @@
     "name": "Chess",
     "description": "Play the game of chess with the LLM.",
     "url": "https://github.com/SillyTavern/SillyTavern-Chess"
+  },
+  {
+    "id": "Extension-ScreenShare",
+    "type": "extension",
+    "name": "Screen Share",
+    "description": "Provides the screen image for multimodal models when you send a message.",
+    "url": "https://github.com/SillyTavern/Extension-ScreenShare"
+  },
+  {
+    "id": "Extension-PromptInspector",
+    "type": "extension",
+    "name": "Prompt Inspector",
+    "description": "Adds an option to inspect and edit output prompts before sending them to the server.",
+    "url": "https://github.com/SillyTavern/Extension-PromptInspector"
   }
 ]

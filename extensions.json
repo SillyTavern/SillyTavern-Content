@@ -98,13 +98,6 @@
         "url": "https://github.com/SillyTavern/Extension-Randomizer"
     },
     {
-        "id": "Extension-ChromaDB",
-        "type": "extension",
-        "name": "Smart Context",
-        "description": "Adds an alternative vector storage using ChromaDB. Requires an Extras API chromadb module.",
-        "url": "https://github.com/SillyTavern/Extension-ChromaDB"
-    },
-    {
         "id": "Extension-WebSearch",
         "type": "extension",
         "name": "Web Search",

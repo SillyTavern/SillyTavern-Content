@@ -382,5 +382,12 @@
     "name": "Prompt Inspector",
     "description": "Adds an option to inspect and edit output prompts before sending them to the server.",
     "url": "https://github.com/SillyTavern/Extension-PromptInspector"
+  },
+  {
+    "id": "Extension-ImageMetadataViewer",
+    "type": "extension",
+    "name": "Image Metadata Viewer",
+    "description": "View metadata of enlarged images attached to a chat.",
+    "url": "https://github.com/SillyTavern/Extension-ImageMetadataViewer"
   }
 ]

@@ -389,5 +389,12 @@
     "name": "Image Metadata Viewer",
     "description": "View metadata of enlarged images attached to a chat.",
     "url": "https://github.com/SillyTavern/Extension-ImageMetadataViewer"
+  },
+  {
+    "id": "Extension-WebLLM",
+    "type": "extension",
+    "name": "WebLLM",
+    "description": "Provides an interface for extensions to use language models directly in the browser.",
+    "url": "https://github.com/SillyTavern/Extension-WebLLM"
   }
 ]

@@ -208,5 +208,12 @@
         "name": "WebLLM",
         "description": "Provides an interface for extensions to use language models directly in the browser.",
         "url": "https://github.com/SillyTavern/Extension-WebLLM"
+    },
+    {
+        "id": "Extension-Mermaid",
+        "type": "extension",
+        "name": "Mermaid",
+        "description": "Adds Mermaid diagrams & flowcharts rendering to SillyTavern chats.",
+        "url": "https://github.com/SillyTavern/Extension-Mermaid"
     }
 ]

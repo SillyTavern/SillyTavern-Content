@@ -1,8 +1,6 @@
 # SillyTavern-Content
 
-Official content repository. Use the "Assets" extension in SillyTavern to download these files into your installation.
-
-Alternatively, [download](https://github.com/SillyTavern/SillyTavern-Content/archive/refs/heads/main.zip) the repository as a ZIP file and unpack it into your /SillyTavern/public folder.
+Official content repository. Use the "Download Extensions & Assets" extension in SillyTavern to download these files into your installation.
 
 Also provides access to the repository of endorsed third-party SillyTavern UI extensions. Want to contribute your extensions to the list? Please [get in contact](https://github.com/SillyTavern/SillyTavern#questions-or-suggestions) with our team!
 

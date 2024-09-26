@@ -188,6 +188,13 @@
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/inside-the-water-temple.ogg"
   },
   {
+    "id": "Prome-VN-Extension",
+    "type": "extension",
+    "name": "Prome Visual Novel Extension",
+    "description": "Enhances the current visual novel experience with more features (Focus Mode, Letterbox Mode, and more)!",
+    "url": "https://github.com/Bronya-Rand/Prome-VN-Extension"
+  },
+  {
     "id": "Extension-GroupGreetings",
     "type": "extension",
     "name": "Group Greetings",

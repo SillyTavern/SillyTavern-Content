@@ -87,8 +87,9 @@
         "id": "Extension-Dice",
         "type": "extension",
         "name": "D&D Dice",
-        "description": "A set of 7 classic D&D dice for all your dice rolling needs. Dice rolls are just for show and are not visible in AI prompts.",
-        "url": "https://github.com/SillyTavern/Extension-Dice"
+        "description": "A set of 7 classic D&D dice for all your dice rolling needs.",
+        "url": "https://github.com/SillyTavern/Extension-Dice",
+        "tool": true
     },
     {
         "id": "Extension-HypeBot",
@@ -109,7 +110,8 @@
         "type": "extension",
         "name": "Web Search",
         "description": "Adds web search results to LLM prompts.",
-        "url": "https://github.com/SillyTavern/Extension-WebSearch"
+        "url": "https://github.com/SillyTavern/Extension-WebSearch",
+        "tool": true
     },
     {
         "id": "SillyTavern-EmulatorJS",
@@ -222,5 +224,21 @@
         "name": "Mermaid",
         "description": "Adds Mermaid diagrams & flowcharts rendering to SillyTavern chats.",
         "url": "https://github.com/SillyTavern/Extension-Mermaid"
+    },
+    {
+        "id": "Extension-AccuWeather",
+        "type": "extension",
+        "name": "AccuWeather",
+        "description": "Provides weather information using the AccuWeather API as a slash command or a function tool.",
+        "url": "https://github.com/SillyTavern/Extension-AccuWeather",
+        "tool": true
+    },
+    {
+        "id": "Extension-RSS",
+        "type": "extension",
+        "name": "RSS",
+        "description": "Gets the latest news from RSS feeds as a slash command or a function tool.",
+        "url": "https://github.com/SillyTavern/Extension-RSS",
+        "tool": true
     }
 ]

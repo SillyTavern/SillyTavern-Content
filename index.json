@@ -437,7 +437,7 @@
     "url": "https://github.com/SillyTavern/Extension-LaTeX"
   },
   {
-    "id": "Extension-Comfier-Placeholders",
+    "id": "SillyTavern-ComfierPlaceholders",
     "type": "extension",
     "name": "SillyTavern-ComfierPlaceholders",
     "description": "Automatically inserts placeholders into ComfyUI workflows, to connect them to the SillyTavern image generation controls.",

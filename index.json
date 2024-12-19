@@ -435,5 +435,12 @@
     "name": "LaTeX",
     "description": "Render LaTeX and AsciiMath formulas in chat messages.",
     "url": "https://github.com/SillyTavern/Extension-LaTeX"
+  },
+  {
+    "id": "Extension-Comfier-Placeholders",
+    "type": "extension",
+    "name": "SillyTavern-ComfierPlaceholders",
+    "description": "Automatically inserts placeholders into ComfyUI workflows, to connect them to the SillyTavern image generation controls.",
+    "url": "https://github.com/ceruleandeep/SillyTavern-ComfierPlaceholders"
   }
 ]

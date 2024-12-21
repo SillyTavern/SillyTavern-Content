@@ -247,5 +247,12 @@
         "name": "LaTeX",
         "description": "Render LaTeX and AsciiMath formulas in chat messages.",
         "url": "https://github.com/SillyTavern/Extension-LaTeX"
+    },
+    {
+        "id": "Extension-InjectManager",
+        "type": "extension",
+        "name": "Inject Manager",
+        "description": "Adds a floating element that shows the number of script injections in the prompt.",
+        "url": "https://github.com/SillyTavern/Extension-InjectManager"
     }
 ]

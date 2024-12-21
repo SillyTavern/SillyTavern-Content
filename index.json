@@ -28,7 +28,7 @@
     "id": "contest_Assistant_Amy.png",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Amy.png",
     "name": "Amy",
-    "description": "Your classy, sassy, savvy, and, yes, a little smart-assy and a bit badassy AI assistant",
+    "description": "Your stunningly savvy and outrageously sassy AI assistant",
     "highlight": false
   },
   {
@@ -435,5 +435,12 @@
     "name": "LaTeX",
     "description": "Render LaTeX and AsciiMath formulas in chat messages.",
     "url": "https://github.com/SillyTavern/Extension-LaTeX"
+  },
+  {
+    "id": "Extension-InjectManager",
+    "type": "extension",
+    "name": "Inject Manager",
+    "description": "Adds a floating element that shows the number of script injections in the prompt.",
+    "url": "https://github.com/SillyTavern/Extension-InjectManager"
   }
 ]

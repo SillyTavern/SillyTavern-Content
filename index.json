@@ -442,5 +442,33 @@
     "name": "Inject Manager",
     "description": "Adds a floating element that shows the number of script injections in the prompt.",
     "url": "https://github.com/SillyTavern/Extension-InjectManager"
+  },
+  {
+    "id": "Extension-CodeMirror",
+    "type": "extension",
+    "name": "CodeMirror",
+    "description": "A fancier expanded text editor.",
+    "url": "https://github.com/SillyTavern/Extension-CodeMirror"
+  },
+  {
+    "id": "Extension-SamplerCommands",
+    "type": "extension",
+    "name": "Sampler Commands",
+    "description": "Adds slash commands for manipulating sampler parameters.",
+    "url": "https://github.com/SillyTavern/Extension-SamplerCommands"
+  },
+  {
+    "id": "Extension-MessageLimit",
+    "type": "extension",
+    "name": "Message Limit",
+    "description": "Limit the maximum number of chat messages to be sent per prompt.",
+    "url": "https://github.com/SillyTavern/Extension-MessageLimit"
+  },
+  {
+    "id": "Extension-LoremIpsum",
+    "type": "extension",
+    "name": "Lorem Ipsum",
+    "description": "Adds a slash command that generates Lorem Ipsum texts of desired length.",
+    "url": "https://github.com/SillyTavern/Extension-LoremIpsum"
   }
 ]

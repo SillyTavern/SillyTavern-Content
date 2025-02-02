@@ -470,5 +470,12 @@
     "name": "Lorem Ipsum",
     "description": "Adds a slash command that generates Lorem Ipsum texts of desired length.",
     "url": "https://github.com/SillyTavern/Extension-LoremIpsum"
+  },
+  {
+    "id": "Extension-TypingIndicator",
+    "type": "extension",
+    "name": "Typing Indicator",
+    "description": "Adds a typing indicator to the chat window when character reply is generating.",
+    "url": "https://github.com/SillyTavern/Extension-TypingIndicator"
   }
 ]

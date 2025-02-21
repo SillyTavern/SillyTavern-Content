@@ -484,5 +484,12 @@
     "name": "Typing Indicator",
     "description": "Adds a typing indicator to the chat window when character reply is generating.",
     "url": "https://github.com/SillyTavern/Extension-TypingIndicator"
+  },
+  {
+    "id": "SillyTavern-Custom-Scenario",
+    "type": "extension",
+    "name": "Custom Scenario",
+    "description": "Create/play interactive character cards. Do you want to ask a question before starting the scenario? Like the character traits, starting location, etc. You can do it here.",
+    "url": "https://github.com/bmen25124/SillyTavern-Custom-Scenario"
   }
 ]

@@ -3,8 +3,15 @@
         "id": "Prome-VN-Extension",
         "type": "extension",
         "name": "Prome Visual Novel Extension",
-        "description": "Enhances the current visual novel experience with more features (Focus Mode, Letterbox Mode, and more)!",
+        "description": "Enhances the SillyTavern Visual Novel experience with user sprites, background/character tinting, focus mode and more!",
         "url": "https://github.com/Bronya-Rand/Prome-VN-Extension"
+    },
+    {
+        "id": "Guinevere-UI-Extension",
+        "type": "extension",
+        "name": "Guinevere UI Extension",
+        "description": "Allows you to make the SillyTavern UI how *you* want it using direct custom HTML/CSS/JavaScript/jQuery!",
+        "url": "https://github.com/Bronya-Rand/Guinevere-UI-Extension"
     },
     {
         "id": "Extension-GroupGreetings",

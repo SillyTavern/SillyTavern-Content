@@ -59,7 +59,7 @@ def read_character(path: str, name: str, entry: dict) -> bool:
 
 if __name__ == "__main__":
     assets_json = []
-    for path, subdirs, files in os.walk(ASSETS_FOLDER):
+    for path, subdirs, files in sorted(os.walk(ASSETS_FOLDER)):
         for name in files:
             if name.startswith("."):
                 continue

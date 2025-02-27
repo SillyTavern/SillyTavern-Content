@@ -312,10 +312,10 @@
         "url": "https://github.com/SillyTavern/Extension-ScriptEvents"
     },
     {
-        "id": "Extension-ImprovedSummary",
+        "id": "SillyTavern-MessageSummarize",
         "type": "extension",
-        "name": "Improved Summary",
+        "name": "Message Summarize",
         "description": "Implements automatic summarization on a per-message basis, with extensive customization and configuration profiles.",
-        "url": "https://github.com/qvink/qvink_memory"
+        "url": "https://github.com/qvink/SillyTavern-MessageSummarize"
     }
 ]

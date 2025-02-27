@@ -310,5 +310,12 @@
         "name": "Script Events",
         "description": "Allows setting app event listeners that execute STscript commands. Events are cleared when the SillyTavern page is refreshed or closed.",
         "url": "https://github.com/SillyTavern/Extension-ScriptEvents"
+    },
+    {
+        "id": "SillyTavern-MessageSummarize",
+        "type": "extension",
+        "name": "Message Summarize",
+        "description": "Implements automatic summarization on a per-message basis, with extensive customization and configuration profiles.",
+        "url": "https://github.com/qvink/SillyTavern-MessageSummarize"
     }
 ]

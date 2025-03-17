@@ -505,5 +505,12 @@
     "name": "Message Summarize",
     "description": "Implements automatic summarization on a per-message basis, with extensive customization and configuration profiles.",
     "url": "https://github.com/qvink/SillyTavern-MessageSummarize"
+  },
+  {
+    "id": "SillyTavern-Magic-Translation",
+    "type": "extension",
+    "name": "Magic Translation",
+    "description": "Translate chat with your favorite LLM.",
+    "url": "https://github.com/bmen25124/SillyTavern-Magic-Translation"
   }
 ]

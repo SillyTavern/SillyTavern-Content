@@ -324,5 +324,12 @@
         "name": "Magic Translation",
         "description": "Translate chat with your favorite LLM.",
         "url": "https://github.com/bmen25124/SillyTavern-Magic-Translation"
+    },
+    {
+        "id": "SillyTavern-MCP-Client",
+        "type": "extension",
+        "name": "MCP (Model Context Protocol)",
+        "description": "<a href=\"https://modelcontextprotocol.io/introduction\" style=\"text-decoration: underline\">MCP</a> implementation for SillyTavern. It requires a <a href=\"https://github.com/bmen25124/SillyTavern-MCP-Server\" style=\"text-decoration: underline\">server plugin</a>.",
+        "url": "https://github.com/bmen25124/SillyTavern-MCP-Client"
     }
 ]

@@ -1,53 +1,5 @@
 [
   {
-    "type": "character",
-    "id": "content_Assistant_CapoGPT.png",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/content_Assistant_CapoGPT.png",
-    "name": "CapoGPT",
-    "description": "ST Personal Assistant contest finalist",
-    "highlight": false
-  },
-  {
-    "type": "character",
-    "id": "contest_Assistant_Amy.png",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Amy.png",
-    "name": "Amy",
-    "description": "Your stunningly savvy and outrageously sassy AI assistant",
-    "highlight": false
-  },
-  {
-    "type": "character",
-    "id": "contest_Assistant_Gloria.png",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Gloria.png",
-    "name": "Gloria, PA",
-    "description": "ST Personal Assistant contest finalist\nTested with Toppy M 7B, Mythomax, Tiefighter, and ChatGPT",
-    "highlight": false
-  },
-  {
-    "type": "character",
-    "id": "contest_Assistant_Sakana.png",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Sakana.png",
-    "name": "Sakana",
-    "description": "(ST AI Assistant Winner) A cheeky, light-hearted assistant that you hired to help you with your daily office work. ",
-    "highlight": true
-  },
-  {
-    "type": "character",
-    "id": "default_CodingSensei.png",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/default_CodingSensei.png",
-    "name": "Coding Sensei",
-    "description": "Coding assistance. Can be used for any code language, not just JavaScript. ",
-    "highlight": false
-  },
-  {
-    "type": "character",
-    "id": "default_FluxTheCat.png",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/default_FluxTheCat.png",
-    "name": "Flux the Cat",
-    "description": "ST Default Bot contest winner: creative prompts category",
-    "highlight": false
-  },
-  {
     "type": "ambient",
     "id": "bedroom-clean.mp3",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/bedroom-clean.mp3"
@@ -101,21 +53,6 @@
     "type": "ambient",
     "id": "landscape-winter-lake-house.mp3",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/ambient/landscape-winter-lake-house.mp3"
-  },
-  {
-    "type": "blip",
-    "id": "st_blip_0.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_0.ogg"
-  },
-  {
-    "type": "blip",
-    "id": "st_blip_1.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_1.ogg"
-  },
-  {
-    "type": "blip",
-    "id": "st_blip_2.ogg",
-    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_2.ogg"
   },
   {
     "type": "bgm",
@@ -186,6 +123,69 @@
     "type": "bgm",
     "id": "sunken-water-temple.ogg",
     "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/bgm/sunken-water-temple.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_0.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_0.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_1.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_1.ogg"
+  },
+  {
+    "type": "blip",
+    "id": "st_blip_2.ogg",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/blip/st_blip_2.ogg"
+  },
+  {
+    "type": "character",
+    "id": "content_Assistant_CapoGPT.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/content_Assistant_CapoGPT.png",
+    "name": "CapoGPT",
+    "description": "ST Personal Assistant contest finalist",
+    "highlight": false
+  },
+  {
+    "type": "character",
+    "id": "contest_Assistant_Amy.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Amy.png",
+    "name": "Amy",
+    "description": "Your stunningly savvy and outrageously sassy AI assistant",
+    "highlight": false
+  },
+  {
+    "type": "character",
+    "id": "contest_Assistant_Gloria.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Gloria.png",
+    "name": "Gloria, PA",
+    "description": "ST Personal Assistant contest finalist\nTested with Toppy M 7B, Mythomax, Tiefighter, and ChatGPT",
+    "highlight": false
+  },
+  {
+    "type": "character",
+    "id": "contest_Assistant_Sakana.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/contest_Assistant_Sakana.png",
+    "name": "Sakana",
+    "description": "(ST AI Assistant Winner) A cheeky, light-hearted assistant that you hired to help you with your daily office work. ",
+    "highlight": true
+  },
+  {
+    "type": "character",
+    "id": "default_CodingSensei.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/default_CodingSensei.png",
+    "name": "Coding Sensei",
+    "description": "Coding assistance. Can be used for any code language, not just JavaScript. ",
+    "highlight": false
+  },
+  {
+    "type": "character",
+    "id": "default_FluxTheCat.png",
+    "url": "https://github.com/SillyTavern/SillyTavern-Content/raw/main/assets/character/default_FluxTheCat.png",
+    "name": "Flux the Cat",
+    "description": "ST Default Bot contest winner: creative prompts category",
+    "highlight": false
   },
   {
     "id": "Prome-VN-Extension",
@@ -526,6 +526,13 @@
     "name": "World Info Recommender",
     "description": "Manage your lorebook using LLMs.",
     "url": "https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender"
+  },
+  {
+    "id": "SillyTavern-Roadway",
+    "type": "extension",
+    "name": "Roadway",
+    "description": "Make story/dialog decisions using LLMs.",
+    "url": "https://github.com/bmen25124/SillyTavern-Roadway"
   },
   {
     "id": "Extension-CustomSliders",

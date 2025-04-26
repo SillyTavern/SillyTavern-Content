@@ -340,6 +340,13 @@
         "url": "https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender"
     },
     {
+        "id": "SillyTavern-Roadway",
+        "type": "extension",
+        "name": "Roadway",
+        "description": "Make story/dialog decisions using LLMs.",
+        "url": "https://github.com/bmen25124/SillyTavern-Roadway"
+    },
+    {
         "id": "Extension-CustomSliders",
         "type": "extension",
         "name": "Custom Sliders",

@@ -324,5 +324,19 @@
         "name": "Magic Translation",
         "description": "Translate chat with your favorite LLM.",
         "url": "https://github.com/bmen25124/SillyTavern-Magic-Translation"
+    },
+    {
+        "id": "SillyTavern-Character-Creator",
+        "type": "extension",
+        "name": "Character Creator",
+        "description": "Create characters using LLMs.",
+        "url": "https://github.com/bmen25124/SillyTavern-Character-Creator"
+    },
+    {
+        "id": "SillyTavern-WorldInfo-Recommender",
+        "type": "extension",
+        "name": "World Info Recommender",
+        "description": "Manage your lorebook using LLMs.",
+        "url": "https://github.com/bmen25124/SillyTavern-WorldInfo-Recommender"
     }
 ]

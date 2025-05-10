@@ -555,5 +555,12 @@
     "description": "Provides function tools and information about the currently playing song on Spotify.",
     "url": "https://github.com/SillyTavern/Extension-Spotify",
     "tool": true
+  },
+  {
+    "id": "GuidedGenerations-Extension",
+    "type": "extension",
+    "name": "Guided Generations",
+    "description": "Tell your AI what to do! Adds modular tools for guiding AI responses, managing persistent context, and refining interactions.",
+    "url": "https://github.com/Samueras/GuidedGenerations-Extension"
   }
 ]

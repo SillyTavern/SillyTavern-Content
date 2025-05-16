@@ -374,5 +374,12 @@
         "name": "Guided Generations",
         "description": "Tell your AI what to do! Adds modular tools for guiding AI responses, managing persistent context, and refining interactions.",
         "url": "https://github.com/Samueras/GuidedGenerations-Extension"
+    },
+    {
+        "id": "SillyTavern-WI-Bulk-Mover",
+        "type": "extension",
+        "name": "World Info Bulk Mover",
+        "description": "Copy, transfer, or delete multiple Lorebook entries at once.",
+        "url": "https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover"
     }
 ]

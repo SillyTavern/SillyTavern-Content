@@ -535,6 +535,20 @@
     "url": "https://github.com/bmen25124/SillyTavern-Roadway"
   },
   {
+    "id": "SillyTavern-Flowchart",
+    "type": "extension",
+    "name": "Flowchart",
+    "description": "Automate things, visualize your flows.",
+    "url": "https://github.com/bmen25124/SillyTavern-Flowchart"
+  },
+  {
+    "id": "SillyTavern-WTracker",
+    "type": "extension",
+    "name": "WTracker",
+    "description": "Track your chat stats like location, time, etc.",
+    "url": "https://github.com/bmen25124/SillyTavern-WTracker"
+  },
+  {
     "id": "Extension-CustomSliders",
     "type": "extension",
     "name": "Custom Sliders",

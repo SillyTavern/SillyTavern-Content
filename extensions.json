@@ -395,5 +395,12 @@
         "name": "World Info Bulk Mover",
         "description": "Copy, transfer, or delete multiple Lorebook entries at once.",
         "url": "https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover"
+    },
+    {
+        "id": "SillyTavern-Pronouns",
+        "type": "extension",
+        "name": "Pronouns",
+        "description": "Manage your persona's pronouns.",
+        "url": "https://github.com/Wolfsblvt/SillyTavern-Pronouns"
     }
 ]

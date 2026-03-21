@@ -1,0 +1,345 @@
+/**
+ * Message Collapser Extension for SillyTavern
+ * Styles for the long message collapse feature
+ *
+ * @author Crystaria (with Xiao Zhua)
+ * @version 1.1.0
+ * @scope third-party
+ */
+
+/* ========== CSS Custom Properties (Variables) ========== */
+:root {
+    --mc-border-radius: 8px;
+    --mc-border-width: 3px;
+    --mc-padding: 0.5em;
+    --mc-transition-duration: 0.2s;
+    --mc-preview-gradient-height: 60px;
+}
+
+/* ========== Main Wrapper ========== */
+.message-collapser-wrapper {
+    position: relative;
+    margin: 0.5em 0;
+    padding: var(--mc-padding);
+    background: var(--SmartThemeBlurTintColor, rgba(0, 0, 0, 0.1));
+    border-radius: var(--mc-border-radius);
+    border-left: var(--mc-border-width) solid var(--SmartThemeAccentColor, #4a9eff);
+}
+
+/* ========== Preview Container (Collapsed State) ========== */
+.message-collapser-preview {
+    position: relative; /* Required for ::after gradient positioning */
+    font-family: inherit;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+/* ========== Full Content Container (Expanded State) ========== */
+.message-collapser-full {
+    font-family: inherit;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/* ========== Toggle Button ========== */
+.collapse-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    margin-top: 0.5em;
+    padding: 0.4em 0.8em;
+    font-size: 0.85em;
+    font-weight: 500;
+    color: var(--SmartThemeTextColor, #666);
+    background: var(--SmartThemeBlurTintColor, rgba(0, 0, 0, 0.05));
+    border: 1px solid var(--SmartThemeBorderColor, #ddd);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all var(--mc-transition-duration) ease;
+    user-select: none;
+}
+
+.collapse-toggle:hover {
+    background: var(--SmartThemeAccentColor, #4a9eff);
+    color: white;
+    border-color: var(--SmartThemeAccentColor, #4a9eff);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(74, 158, 255, 0.3);
+}
+
+.collapse-toggle:active {
+    transform: translateY(0);
+}
+
+/* Icon styling */
+.collapse-icon {
+    font-size: 1.1em;
+    line-height: 1;
+}
+
+/* ========== Dark Theme Adjustments ========== */
+.dark-theme .message-collapser-wrapper {
+    background: rgba(255, 255, 255, 0.05);
+    border-left-color: #4a9eff;
+}
+
+.dark-theme .message-collapser-preview::after {
+    background: linear-gradient(
+        to bottom,
+        transparent,
+        rgba(255, 255, 255, 0.05)
+    );
+}
+
+.dark-theme .collapse-toggle {
+    color: #aaa;
+    background: rgba(255, 255, 255, 0.05);
+    border-color: #444;
+}
+
+.dark-theme .collapse-toggle:hover {
+    background: #4a9eff;
+    color: white;
+    border-color: #4a9eff;
+}
+
+/* ========== Gradient Fade Effect (Bottom of Preview) ========== */
+.message-collapser-preview::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: var(--mc-preview-gradient-height);
+    background: linear-gradient(
+        to bottom,
+        transparent,
+        var(--SmartThemeBlurTintColor, rgba(0, 0, 0, 0.1))
+    );
+    pointer-events: none;
+    border-radius: 0 0 var(--mc-border-radius) var(--mc-border-radius);
+}
+
+/* ========== Animation Transitions ========== */
+.message-collapser-full,
+.message-collapser-preview {
+    transition: opacity var(--mc-transition-duration) ease;
+}
+
+/* ========== Mobile Responsive ========== */
+@media (max-width: 768px) {
+    .message-collapser-wrapper {
+        padding: 0.4em;
+        border-radius: 6px;
+    }
+
+    .collapse-toggle {
+        font-size: 0.8em;
+        padding: 0.3em 0.6em;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .collapse-toggle .collapse-text {
+        font-size: 0.95em;
+    }
+}
+
+/* ========== High Contrast Mode Support ========== */
+@media (prefers-contrast: high) {
+    .message-collapser-wrapper {
+        border-left-width: 4px;
+    }
+
+    .collapse-toggle {
+        border-width: 2px;
+    }
+}
+
+/* ========== Reduced Motion Support ========== */
+@media (prefers-reduced-motion: reduce) {
+    .collapse-toggle,
+    .message-collapser-full,
+    .message-collapser-preview {
+        transition: none;
+    }
+
+    .collapse-toggle:hover {
+        transform: none;
+    }
+}
+
+/* ========== Focus States for Accessibility ========== */
+.collapse-toggle:focus {
+    outline: 2px solid var(--SmartThemeAccentColor, #4a9eff);
+    outline-offset: 2px;
+}
+
+.collapse-toggle:focus:not(:focus-visible) {
+    outline: none;
+}
+
+.collapse-toggle:focus-visible {
+    outline: 2px solid var(--SmartThemeAccentColor, #4a9eff);
+    outline-offset: 2px;
+}
+
+/* ========== Print Styles ========== */
+@media print {
+    .collapse-toggle {
+        display: none;
+    }
+
+    .message-collapser-preview {
+        max-height: none;
+        overflow: visible;
+    }
+
+    .message-collapser-preview::after {
+        display: none;
+    }
+}
+
+/* ========== Settings Panel Container ========== */
+#message-collapser-settings {
+    padding: 15px;
+    border: 1px solid var(--SmartThemeBorderColor, #ccc);
+    margin-top: 15px;
+    border-radius: 8px;
+    background: var(--SmartThemePanelBgColor, var(--SmartThemeBlurTintColor, rgba(0, 0, 0, 0.05)));
+}
+
+/* Settings Panel Title */
+#message-collapser-settings h4 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: var(--SmartThemeTextColor, #333);
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+/* ========== Form Groups ========== */
+#message-collapser-settings .form-group {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+#message-collapser-settings label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--SmartThemeTextColor, #333);
+    font-size: 0.95em;
+}
+
+/* Checkbox Styling */
+#message-collapser-settings input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: var(--SmartThemeAccentColor, #4a9eff);
+}
+
+/* Number Input Styling */
+#message-collapser-settings input[type="number"] {
+    width: 100px;
+    padding: 6px 10px;
+    color: var(--SmartThemeTextColor, #333);
+    background: var(--SmartThemeInputBgColor, #fff);
+    border: 1px solid var(--SmartThemeBorderColor, #ccc);
+    border-radius: 4px;
+    font-size: 0.95em;
+    transition: border-color 0.2s ease;
+}
+
+#message-collapser-settings input[type="number"]:focus {
+    outline: none;
+    border-color: var(--SmartThemeAccentColor, #4a9eff);
+    box-shadow: 0 0 0 2px rgba(74, 158, 255, 0.2);
+}
+
+#message-collapser-settings input[type="number"]:hover {
+    border-color: var(--SmartThemeAccentColor, #4a9eff);
+}
+
+/* ========== Save Button ========== */
+#message-collapser-settings #mc-save {
+    padding: 8px 16px;
+    margin-top: 10px;
+    background: var(--SmartThemeAccentColor, #4a9eff);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.95em;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+#message-collapser-settings #mc-save:hover {
+    background: var(--SmartThemeAccentColorHover, #3a8eef);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(74, 158, 255, 0.3);
+}
+
+#message-collapser-settings #mc-save:active {
+    transform: translateY(0);
+}
+
+/* ========== Status Message ========== */
+#message-collapser-settings #mc-status {
+    margin-top: 12px;
+    font-size: 0.9em;
+    font-weight: 500;
+    min-height: 1.2em;
+}
+
+/* ========== Dark Theme Adjustments - Settings ========== */
+.dark-theme #message-collapser-settings {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: #444;
+}
+
+.dark-theme #message-collapser-settings h4,
+.dark-theme #message-collapser-settings label {
+    color: #eee;
+}
+
+.dark-theme #message-collapser-settings input[type="number"] {
+    background: #222;
+    border-color: #444;
+    color: #eee;
+}
+
+.dark-theme #message-collapser-settings input[type="number"]:focus {
+    border-color: #4a9eff;
+    box-shadow: 0 0 0 2px rgba(74, 158, 255, 0.3);
+}
+
+/* ========== Mobile Responsive - Settings ========== */
+@media (max-width: 768px) {
+    #message-collapser-settings {
+        padding: 12px;
+    }
+
+    #message-collapser-settings .form-group {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #message-collapser-settings input[type="number"] {
+        width: 100%;
+        max-width: 150px;
+    }
+
+    #message-collapser-settings #mc-save {
+        width: 100%;
+    }
+}

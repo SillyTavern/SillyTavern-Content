@@ -402,5 +402,13 @@
         "name": "Pronouns",
         "description": "Manage your persona's pronouns.",
         "url": "https://github.com/Wolfsblvt/SillyTavern-Pronouns"
+    },
+    {
+        "id": "SillyTavern-MessageCollapser",
+        "type": "extension",
+        "name": "Message Collapser",
+        "description": "Automatically collapse long messages in chat with configurable threshold. Accessibility-friendly UI enhancement.",
+        "url": "https://github.com/Crystaria/SillyTavern-MessageCollapser",
+        "tags": ["ui", "accessibility", "chat", "quality-of-life"]
     }
 ]

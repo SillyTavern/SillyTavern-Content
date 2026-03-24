@@ -15,6 +15,29 @@ To ensure that all extensions are safe and easy to use, we have a few requiremen
 3. Extensions must be well-documented. This includes a README file with installation instructions, usage examples, and a list of features.
 4. Extensions that have a server plugin requirement to function will not be accepted.
 
+### How to add an extension
+
+1. Make sure that your extension follows the submission rules (see above).
+2. Add a record at the end of `extensions.json`, following the structure: provide an id (extension folder name), type (always extension), name (human readable), description (a short summary), repository URL, and add `"tool": true` if it provides function tools.
+3. Run a Python script `generate_index_json.py` to regenerate the content index file.
+4. Commit the changes and open a pull request to the upstream `main` branch.
+
+Example:
+
+```js
+[
+    // Rest of the file
+    {
+        "id": "AwesomeExtension",
+        "type": "extension",
+        "name": "An Awesome Extension",
+        "description": "This extension is awesome and does some cool stuff",
+        "url": "https://github.com/AwesomeDev/AwesomeExtension",
+        "tool": true
+    }
+]
+```
+
 ## Artist credits
 
 ### BGM

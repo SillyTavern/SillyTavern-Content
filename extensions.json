@@ -402,5 +402,12 @@
         "name": "Pronouns",
         "description": "Manage your persona's pronouns.",
         "url": "https://github.com/Wolfsblvt/SillyTavern-Pronouns"
+    },
+    {
+        "id": "sillytavern-woven-imprint",
+        "type": "extension",
+        "name": "Woven Imprint",
+        "description": "Persistent character memory and relationship tracking. Additional software is required, see the README.",
+        "url": "https://github.com/virtaava/sillytavern-woven-imprint"
     }
 ]

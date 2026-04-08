@@ -409,5 +409,12 @@
         "name": "Message Collapser",
         "description": "Automatically collapse long messages in chat with configurable threshold. Accessibility-friendly UI enhancement.",
         "url": "https://github.com/Crystaria/SillyTavern-MessageCollapser"
+    },
+    {
+      "id": "SillyTavern-TextHider",
+      "type": "extension",
+      "name": "Text Hider",
+      "description": "Allow text between specific prefix and suffix to be hidden in a box like CoT with reasoning model.",
+      "url": "https://github.com/Dirky14/sillytavern-text-hider"
     }
 ]

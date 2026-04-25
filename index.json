@@ -202,6 +202,13 @@
     "url": "https://github.com/Bronya-Rand/Guinevere-UI-Extension"
   },
   {
+    "id": "SillyTavern-ProbablyTooManyTabs",
+    "type": "extension",
+    "name": "ProbablyTooManyTabs",
+    "description": "An extension that transforms the SillyTavern interface into a flexible tabbed workspace, allowing you to organize all UI elements into customizable columns.",
+    "url": "https://github.com/IceFog72/SillyTavern-ProbablyTooManyTabs"
+  },
+  {
     "id": "Extension-GroupGreetings",
     "type": "extension",
     "name": "Group Greetings",

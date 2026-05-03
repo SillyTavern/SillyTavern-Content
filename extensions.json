@@ -424,5 +424,14 @@
         "description": "Enables your model to activate World Info / lorebook entries on-demand via function calling, during text generation.",
         "url": "https://github.com/Culpeo/SillyTavern-WI-FunctionCall",
         "tool": true
+    },
+    {
+        "id": "SillyTavern-MemoryBooks",
+        "type": "extension",
+        "name": "Memory Books",
+        "description": "Saves SillyTavern chat memories to lorebooks. Features side prompts (trackers) and consolidations.",
+        "url": "https://github.com/aikohanasaki/SillyTavern-MemoryBooks",
+        "tool": true
     }
+]
 ]

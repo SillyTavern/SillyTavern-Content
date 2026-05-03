@@ -612,5 +612,47 @@
     "description": "Enables your model to activate World Info / lorebook entries on-demand via function calling, during text generation.",
     "url": "https://github.com/Culpeo/SillyTavern-WI-FunctionCall",
     "tool": true
+  },
+  {
+    "id": "SillyTavern-MemoryBooks",
+    "type": "extension",
+    "name": "Memory Books",
+    "description": "Saves SillyTavern chat memories to lorebooks. Features side prompts (trackers) and consolidations.",
+    "url": "https://github.com/aikohanasaki/SillyTavern-MemoryBooks"
+  },
+  {
+    "id": "SillyTavern-WorldInfoInfo",
+    "type": "extension",
+    "name": "World Info Info",
+    "description": "See which WorldInfo entries were active in the last generated message.",
+    "url": "https://github.com/aikohanasaki/SillyTavern-WorldInfoInfo"
+  },
+  {
+    "id": "SillyTavern-CharacterLocks",
+    "type": "extension",
+    "name": "Character Locks",
+    "description": "Locks presets and connection profiles to characters and groups.",
+    "url": "https://github.com/aikohanasaki/SillyTavern-CharacterLocks"
+  },
+  {
+    "id": "SillyTavern-WorldInfoLocks",
+    "type": "extension",
+    "name": "World Info Locks",
+    "description": "Create and lock world info presets to characters, groups, and individual chats.",
+    "url": "https://github.com/aikohanasaki/SillyTavern-WorldInfoLocks"
+  },
+  {
+    "id": "SillyTavern-LorebookOrdering",
+    "type": "extension",
+    "name": "Lorebook Ordering",
+    "description": "Gives lorebook-level control over activation priority.",
+    "url": "https://github.com/aikohanasaki/SillyTavern-LorebookOrdering"
+  },
+  {
+    "id": "SillyTavern-ModelInjection",
+    "type": "extension",
+    "name": "Model Injection",
+    "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
+    "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
   }
 ]

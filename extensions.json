@@ -467,5 +467,4 @@
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection",
     }
-
 ]

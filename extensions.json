@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
-    }
+    },
+	{
+		"id": "SillyTavern-VideoAvatar",
+		"type": "extension",
+		"name": "Animated Character Images",
+		"description": "Upload a video to animate your character and persona images.",
+		"url": "https://github.com/Vibecoder9000/SillyTavern-VideoAvatar"
+	}
 ]

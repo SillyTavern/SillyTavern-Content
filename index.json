@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "SillyTavern-API-Key-Manager",
+    "type": "extension",
+    "name": "API Key \u7ba1\u5bb6",
+    "description": "OpenAI-compatible LLM service, model, and API key persistence console.",
+    "url": "https://github.com/yexi-by/SillyTavern-API-Key-Manager"
   }
 ]

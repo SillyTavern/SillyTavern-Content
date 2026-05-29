@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "Intiface_Central-Sillytavern-plugin",
+    "type": "extension",
+    "name": "Intiface Central for SillyTavern",
+    "description": "Connects SillyTavern to Intiface Desktop for manual and chat-driven control of compatible devices.",
+    "url": "https://github.com/Enclave0775/Intiface_Central-Sillytavern-plugin"
   }
 ]

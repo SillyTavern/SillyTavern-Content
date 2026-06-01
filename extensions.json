@@ -466,5 +466,13 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
-    }
+    },
+    {
+      "id": "ST-Calc",
+      "type": "extension",
+      "name": "ST-Calc",
+      "description": "High-precision math calculator function tool for LLMs, supporting higher math (calculus, linear algebra) via mathjs.",
+      "url": "https://github.com/Pigeonszz/ST-Calc",
+      "tool": true
+  }
 ]

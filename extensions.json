@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavern-PicturePrompt",
+        "type": "extension",
+        "name": "Picture Prompt",
+        "description": "Vision models can see, but by default they're blind. Injects avatars, reference art, and lorebook images automatically.",
+        "url": "https://github.com/RetroVioletRed/SillyTavern-PicturePrompt"
     }
 ]

@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "MYTURN",
+        "type": "extension",
+        "name": "MYTURN",
+        "description": "Turns the browser tab favicon into a generation status light: a spinner while the LLM replies, and a checkmark (that stays until you return to the tab) when it's your turn.",
+        "url": "https://github.com/Blooshoo/MYTURN"
     }
 ]

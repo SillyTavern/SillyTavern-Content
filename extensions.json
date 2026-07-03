@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "scene2prompt",
+        "type": "extension",
+        "name": "Scene2Prompt — Scene to Prompt",
+        "description": "Analyze chat context with LLM to generate Danbooru tags for ComfyUI image generation. Supports DeepSeek/OpenAI/OpenRouter/Ollama/Custom providers with 8 model profiles and content gating.",
+        "url": "https://github.com/yellow-yz/SillyTavern-Scene2Prompt"
     }
 ]

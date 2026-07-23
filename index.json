@@ -654,5 +654,20 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "STFastUserSwitching",
+    "type": "extension",
+    "name": "Fast User Switching",
+    "description": "Adds a top-bar button to switch between SillyTavern multi-user accounts without going through the login page.",
+    "url": "https://github.com/thexyzzyone/STFastUserSwitching",
+    "tool": false
+  },
+  {
+    "id": "STGroupResponderSelector",
+    "type": "extension",
+    "name": "Group Responder Selector",
+    "description": "Adds a button next to the message box in group chats to pick which character responds next, bypassing the group's normal activation strategy.",
+    "url": "https://github.com/thexyzzyone/STGroupResponderSelector"
   }
 ]

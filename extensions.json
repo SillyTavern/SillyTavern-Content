@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavern-GroupCompactPanel",
+        "type": "extension",
+        "name": "Group Compact Panel",
+        "description": "Adds a compact floating panel for quickly managing members in group chats.",
+        "url": "https://github.com/cloudmel/sillytavern-group-compact-panel"
     }
 ]

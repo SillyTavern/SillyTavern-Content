@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "SillyTavern-Chat-Collections",
+    "type": "extension",
+    "name": "Chat Collections",
+    "description": "Organize saved solo and group chats into nested virtual collections without moving or rewriting chat files.",
+    "url": "https://github.com/starcore42/SillyTavern-Chat-Collections"
   }
 ]

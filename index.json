@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "ST-SceneCast",
+    "type": "extension",
+    "name": "SceneCast Portrait Stage",
+    "description": "Shows dynamic character portraits on stage as they're mentioned in the chat.",
+    "url": "https://github.com/DWage/ST-SceneCast"
   }
 ]

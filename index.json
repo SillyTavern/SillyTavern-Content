@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "st-Mind-Compass",
+    "type": "extension",
+    "name": "灵犀 (Mind Compass)",
+    "description": "Objective mind-state and relationship-dynamics engine driven by TypeSafe Jev System One typed judgments instead of the chat model's own opinion. Filters sycophancy, tracks trust through a social-penetration model, drives 28-dimension character expressions, injects world info, and persists per character card. Zero backend: pure ES modules, key stored in the host's secret vault.",
+    "url": "https://github.com/scd13150/st-Mind-Compass"
   }
 ]

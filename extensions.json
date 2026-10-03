@@ -466,5 +466,27 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavern-StateSmith",
+        "type": "extension",
+        "name": "StateSmith",
+        "description": "Track and edit chat state with configurable fields and a function tool for model updates.",
+        "url": "https://github.com/Atlas4285/SillyTavern-StateSmith",
+        "tool": true
+    },
+    {
+        "id": "SillyTavern-ContextCompact",
+        "type": "extension",
+        "name": "ContextCompact",
+        "description": "Turn older chat turns into structured memory while keeping recent turns in context.",
+        "url": "https://github.com/Atlas4285/SillyTavern-ContextCompact"
+    },
+    {
+        "id": "SillyTavern-NextActions",
+        "type": "extension",
+        "name": "Next Actions",
+        "description": "Show suggested next actions in character replies as clickable buttons.",
+        "url": "https://github.com/Atlas4285/SillyTavern-NextActions"
     }
 ]

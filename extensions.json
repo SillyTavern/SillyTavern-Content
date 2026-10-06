@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "sillytavern-spicyapi",
+        "type": "extension",
+        "name": "SpicyAPI",
+        "description": "Make pictures and short videos from your chats with SpicyAPI models, animate chat images in one click, and connect chat to SpicyAPI. Every run is priced in USD first.",
+        "url": "https://github.com/spicyapi-ai/sillytavern-spicyapi"
     }
 ]

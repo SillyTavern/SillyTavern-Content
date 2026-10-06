@@ -654,5 +654,13 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "mate-sillytavern",
+    "type": "extension",
+    "name": "Persisto Mate",
+    "description": "Your character becomes a companion with a learned body clock, real sleep and dreams, its own memory, and feelings read after the exchange.",
+    "url": "https://github.com/m-rui001/mate-sillytavern",
+    "tool": true
   }
 ]

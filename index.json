@@ -654,5 +654,13 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "Extension-Blackboard",
+    "type": "extension",
+    "name": "Simulation Blackboard",
+    "description": "Persistent world state for roleplay with fidelity presets, optional private reviews, history rollback, and scene backgrounds.",
+    "url": "https://github.com/st1ksi/Extension-Blackboard",
+    "tool": true
   }
 ]

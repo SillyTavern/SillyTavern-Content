@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "SillyTavern-ChatFolders",
+    "type": "extension",
+    "name": "Chat Folders",
+    "description": "Turns the welcome screen's Recent Chats into folders per character, with nested branches, pins, sorting and lorebook controls.",
+    "url": "https://github.com/fyne4247/SillyTavern-ChatFolders"
   }
 ]

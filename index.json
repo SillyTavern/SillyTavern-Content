@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "st-opencode-usage-badge",
+    "type": "extension",
+    "name": "OpenCode Usage Badge",
+    "description": "Shows prompt-cache hit rate and per-message cost for OpenCode Go, OpenRouter, and compatible chat-completion APIs.",
+    "url": "https://github.com/Surdagon/st-opencode-usage-badge"
   }
 ]

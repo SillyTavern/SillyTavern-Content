@@ -658,7 +658,7 @@
   {
     "id": "XTok",
     "type": "extension",
-    "name": "XTok BLE",
+    "name": "xtok",
     "description": "Connect an XTok device using Web Bluetooth. Give the model tools to read device status, set channel limits within a user-authorized ceiling, and send finite waveforms.",
     "url": "https://github.com/XTok-officials/XTok",
     "tool": true

@@ -654,5 +654,13 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "XTok",
+    "type": "extension",
+    "name": "XTok BLE",
+    "description": "Connect an XTok device using Web Bluetooth. Give the model tools to read device status, set channel limits within a user-authorized ceiling, and send finite waveforms.",
+    "url": "https://github.com/XTok-officials/XTok",
+    "tool": true
   }
 ]

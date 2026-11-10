@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavern-AnimeAPI",
+        "type": "extension",
+        "name": "AnimeAPI Image Generation",
+        "description": "Generate anime images from the last message, the character or a custom prompt with AnimeAPI ($0.003 per image). Slash command, wand menu and message button; shows price and balance.",
+        "url": "https://github.com/animeapi-ai/SillyTavern-AnimeAPI"
     }
 ]

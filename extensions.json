@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavern-AbliteratedLLM",
+        "type": "extension",
+        "name": "AbliteratedLLM",
+        "description": "Sets up the Custom (OpenAI-compatible) source for the AbliteratedLLM pay-per-token API, with a model picker showing prices, a connection profile, reasoning effort and a balance check.",
+        "url": "https://github.com/abliteratedllm/SillyTavern-AbliteratedLLM"
     }
 ]

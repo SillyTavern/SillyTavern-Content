@@ -466,5 +466,13 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavern-AIPG",
+        "type": "extension",
+        "name": "AI Power Grid images",
+        "description": "Generates images on AI Power Grid, a pay-per-use network of community GPUs, from a slash command, the wand menu or a function tool. Needs an AI Power Grid API key.",
+        "url": "https://github.com/speteai/SillyTavern-AIPG",
+        "tool": true
     }
 ]

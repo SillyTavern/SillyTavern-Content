@@ -466,5 +466,13 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "desearch",
+        "type": "extension",
+        "name": "Desearch",
+        "description": "Search the web with Desearch from a search panel or the desearch_search function tool. Requires a Desearch API key and available balance.",
+        "url": "https://github.com/Desearch-ai/SillyTavern-Desearch",
+        "tool": true
     }
 ]

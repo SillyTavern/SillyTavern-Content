@@ -658,8 +658,8 @@
   {
     "id": "SillyTavern-AIPG",
     "type": "extension",
-    "name": "AI Power Grid images",
-    "description": "Generates images on AI Power Grid, a pay-per-use network of community GPUs, from a slash command, the wand menu or a function tool. Needs an AI Power Grid API key.",
+    "name": "AI Power Grid images and video",
+    "description": "Generates images and short video clips with sound on AI Power Grid, a pay-per-use network of community GPUs, from slash commands, the wand menu or function tools. Needs an AI Power Grid API key.",
     "url": "https://github.com/speteai/SillyTavern-AIPG",
     "tool": true
   }

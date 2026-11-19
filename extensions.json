@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "sophon-sillytavern",
+        "type": "extension",
+        "name": "Sophon Voice Call",
+        "description": "Full-duplex voice calls with your character: interrupt anytime, a voice per character (built-in or cloned), the call is written back into the chat. Uses an open-source Sophon-Realtime server on your own GPU or the hosted API.",
+        "url": "https://github.com/adventists-ai/sophon-sillytavern"
     }
 ]

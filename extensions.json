@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavern-Openference",
+        "type": "extension",
+        "name": "Openference",
+        "description": "Adds Openference as a named Chat Completion source, with a button that signs you in and saves an API key for you.",
+        "url": "https://github.com/Openference/SillyTavern-Openference"
     }
 ]

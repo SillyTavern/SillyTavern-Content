@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavern-BlueMetal",
+        "type": "extension",
+        "name": "BlueMetal Music",
+        "description": "Background music for your chats: the chat model describes the scene, BlueMetal makes an original instrumental track, and it loops with a crossfade. Auto mode follows the scene. Needs a BlueMetal API key.",
+        "url": "https://github.com/1missthesun/SillyTavern-BlueMetal"
     }
 ]

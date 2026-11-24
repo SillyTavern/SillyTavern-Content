@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "SillyTavern-Hubris",
+    "type": "extension",
+    "name": "Hubris",
+    "description": "Adds Hubris, an OpenAI-compatible LLM gateway, as a named provider under Chat Completion > Custom Providers, with optional reasoning control.",
+    "url": "https://github.com/Aimagine-life/SillyTavern-Hubris"
   }
 ]

@@ -470,8 +470,8 @@
     {
         "id": "SillyTavernAceMusic",
         "type": "extension",
-        "name": "ACE Music Scene Player",
-        "description": "Play and loop tracks from an existing ACE Music task while chatting. Playback stops when you switch chats.",
+        "name": "Ace Scene Media",
+        "description": "Play soundtracks and display temporary image or animated backdrops from existing Ace Data Cloud media tasks.",
         "url": "https://github.com/AceDataCloud/SillyTavernAceMusic"
     }
 ]

@@ -659,7 +659,7 @@
     "id": "SillyTavernAceMusic",
     "type": "extension",
     "name": "Ace Scene Media",
-    "description": "Play soundtracks and display temporary image or animated backdrops from existing Ace Data Cloud media tasks.",
+    "description": "Play soundtracks and display temporary backdrops from existing media tasks. Connect Ace Data Cloud chat models through the native provider picker on supported hosts.",
     "url": "https://github.com/AceDataCloud/SillyTavernAceMusic"
   }
 ]

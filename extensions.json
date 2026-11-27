@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "SillyTavernAceMusic",
+        "type": "extension",
+        "name": "ACE Music Scene Player",
+        "description": "Play and loop tracks from an existing ACE Music task while chatting. Playback stops when you switch chats.",
+        "url": "https://github.com/AceDataCloud/SillyTavernAceMusic"
     }
 ]

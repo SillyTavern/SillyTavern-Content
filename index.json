@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "redpen",
+    "type": "extension",
+    "name": "Redpen",
+    "description": "Deletes slop from model replies with a small classifier that runs in your browser. It only cuts and never rewrites.",
+    "url": "https://github.com/dempfi/redpen"
   }
 ]

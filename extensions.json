@@ -466,5 +466,12 @@
         "name": "Model Injection",
         "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
         "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+    },
+    {
+        "id": "persona-tags",
+        "type": "extension",
+        "name": "Persona Tags",
+        "description": "Tag, filter (include/exclude), batch-manage, and drag-reorder user personas directly inside the native Persona Management panel. Supports all 17 SillyTavern UI languages.",
+        "url": "https://github.com/XiaoBai20001212/persona-tags"
     }
 ]

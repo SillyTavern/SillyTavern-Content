@@ -654,5 +654,12 @@
     "name": "Model Injection",
     "description": "Constant WI injection for /model (use with outlets for automatic model-specific prompts).",
     "url": "https://github.com/aikohanasaki/SillyTavern-ModelInjection"
+  },
+  {
+    "id": "SillyTavernAceMusic",
+    "type": "extension",
+    "name": "Ace Scene Media",
+    "description": "Play soundtracks and display temporary backdrops from existing media tasks. Connect Ace Data Cloud chat models through the native provider picker on supported hosts.",
+    "url": "https://github.com/AceDataCloud/SillyTavernAceMusic"
   }
 ]
